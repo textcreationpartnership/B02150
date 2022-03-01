@@ -1,0 +1,664 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian soldier's penny Bible. Shewing, from the Holy Scriptures, the soldier's duty and encouragement. Being a brief collection of pertinent scriptures, under XX heads, fit for the soldier's, or seaman's pocket, when his is not furnish'd with, or cannot well carry a larger volume, in time of war.</title>
+            <title>Bible. English. Authorized. Selections. 1693.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02150</idno>
+            <idno type="STC">Wing C3949A</idno>
+            <idno type="STC">ESTC R173844</idno>
+            <idno type="EEBO-CITATION">53981485</idno>
+            <idno type="OCLC">ocm 53981485</idno>
+            <idno type="VID">180164</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02150)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180164)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2819:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian soldier's penny Bible. Shewing, from the Holy Scriptures, the soldier's duty and encouragement. Being a brief collection of pertinent scriptures, under XX heads, fit for the soldier's, or seaman's pocket, when his is not furnish'd with, or cannot well carry a larger volume, in time of war.</title>
+                  <title>Bible. English. Authorized. Selections. 1693.</title>
+               </titleStmt>
+               <extent>[2], 3-16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Smith for Sam: Wade, under the piazza of the Royal Exchange in Cornhil, and sold by him and Rich. Baldwin near the Oxford Arms in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within double-line border.</note>
+                  <note>Imprimatur on t.p. verso.</note>
+                  <note>With Biblical citations in marginal notes.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Selections --  17th century.</term>
+               <term>Soldiers --  Religious life --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180164:1" rendition="simple:additions"/>
+            <p>THE Chriſtian Soldier's PENNY BIBLE. SHEWING From the Holy Scriptures, the Soldier's Duty and Encourage<g ref="char:EOLhyphen"/>ment. BEING A Brief Collection of pertinent Scrip<g ref="char:EOLhyphen"/>tures, under XX Heads, fit for the Sol<g ref="char:EOLhyphen"/>dier's, or Seaman's Pocket, when he is not furniſh'd with, or cannot well carry a larger Volume, in time of War.</p>
+            <q>
+               <bibl>
+                  <hi>Epheſ. VI. 11, 16.</hi>
+               </bibl>
+               <p>Put on the whole Armour of God—Above all, taking the Shield of Faith, wherewith ye ſhall be able to quench all the Fiery Darts of the Wicked.</p>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>R. Smith,</hi> for <hi>Sam. Wade,</hi> under the <hi>Piazza</hi> of the Royal Ex<g ref="char:EOLhyphen"/>change in <hi>Cornhil,</hi> and Sold by him and <hi>Rich. Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> 1693.</p>
+            <pb facs="tcp:180164:2" rendition="simple:additions"/>
+            <pb facs="tcp:180164:2" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:180164:3"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <date>
+                  <hi>March</hi> 17. 1692/3.</date>
+               <signed>C. ALSTON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="3" facs="tcp:180164:3"/>
+            <head>THE Chriſtian Soldiers PENNY BIBLE, <hi>&amp;c.</hi>
+            </head>
+            <div n="1" type="part">
+               <head>I. <hi>The Chriſtian Soldier's chief aim ſhould be to do his King and Country Service, in procuring, or preſerving the Peace of it.</hi>
+               </head>
+               <p>THere is no Peace, ſaith the Lord,
+<note place="margin">
+                     <hi>Iſa.</hi> 48.22.</note> unto the Wicked.</p>
+               <p>Shouldſt thou help the Ungodly and hate the Lord?
+<note place="margin">2 <hi>Cron.</hi> 19.2. <hi>Pſal.</hi> 139.21, 22. <hi>Deut.</hi> 23.3, 4. <hi>Num.</hi> 22.5.</note>
+               </p>
+               <p>Do not I hate them that hate thee? Yea, I hate them with a perfect hatred.</p>
+               <p>An <hi>Ammorite,</hi> or <hi>Moabite,</hi> ſhall not enter in<g ref="char:EOLhyphen"/>to the Congregation of the Lord; even to the tenth Generation, ſhall they not enter into the Congregation of the Lord for ever, becauſe they met you not with Bread and with Water, in the way when ye came forth from <hi>Aegypt,</hi> &amp;c.</p>
+               <p>
+                  <hi>Curſe ye Meroz</hi> (ſaid the Angel of the Lord) Curſe ye bitterly the Inhabitants thereof,
+<note place="margin">
+                     <hi>Judg.</hi> 5.23.</note> be<g ref="char:EOLhyphen"/>cauſe they came not to the help of the Lord, to the help of the Lord againſt the Mighty.</p>
+               <p>It is he that giveth Salvation and Victory un<g ref="char:EOLhyphen"/>to Kings;
+<note place="margin">
+                     <hi>Pſal.</hi> 144, 10.14.</note> who delivereth <hi>David</hi> his Servant from the hurtful Sword — That there be no breaking in, nor going out; that there be no com<g ref="char:EOLhyphen"/>plaining in our Streets.</p>
+               <pb n="4" facs="tcp:180164:4"/>
+               <p>Shall your Brethren go to War,
+<note place="margin">
+                     <hi>Num.</hi> 32.6, 7.</note> and ſhall ye ſit here? And wherefore diſcourage ye the Heart of the Children of <hi>Iſrael</hi> from going over into the Land which the Lord hath given?</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>The Soldier ſhould obſerve the Com<g ref="char:EOLhyphen"/>mand of the Lord of Hoſts, and acknow<g ref="char:EOLhyphen"/>ledge his Authority in Obeying his Supe<g ref="char:EOLhyphen"/>rior.</hi>
+               </head>
+               <p>THe Lord is a Man of War;
+<note place="margin">
+                     <hi>Exod.</hi> 15. <hi>Joſ.</hi> 1.7, 8, 9.</note> the Lord (or <hi>Jehovah</hi>) is his Name. <hi>General Joſhua had encouragement from him.</hi> Only be thou ſtrong and very Couragious; that thou mayeſt obſerve to do according to all the Law, as <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> my Servant commanded thee: Turn not from it to the right Hand or to the left, that thou mayeſt proſper whether ſo ever thou goeſt.</p>
+               <p>This Book of the Law ſhall not depart out of thy Mouth, but thou ſhalt Meditate therein Day and Night, that thou mayeſt obſerve to do ac<g ref="char:EOLhyphen"/>cording to all that is written therein: For thou ſhalt make thy way Proſperous, and thou ſhalt have good Succeſs.</p>
+               <p>Have not I commanded thee? Be ſtrong and of a good Courage, be not afraid, neither be thou diſinaid, for the Lord thy God is with thee whether ſoever thou goeſt.</p>
+               <p>
+                  <hi>David</hi> was counted a mighty Valiant Man,
+<note place="margin">
+                     <hi>Iſa.</hi> 16.18.</note> and a Man of War, and prudent in Matters, and a Comly Perſon, and the Lord was with him.</p>
+               <p>Captain <hi>Cornelius</hi> had a devout Soldier of them that waited on him continually.
+<note place="margin">
+                     <hi>Acts</hi> 10.7.</note>
+               </p>
+               <p>Endure hardneſs as a good Soldier of <hi>Jeſus Chriſt,</hi>
+                  <note place="margin">2 <hi>Tim.</hi> 2.3, 4. <hi>Matt.</hi> 8.9.</note> to pleaſe him who hath choſen thee to be a Soldier. I am a Man under Authority, ha<g ref="char:EOLhyphen"/>ving Soldiers under me, and I ſay to this Man, <hi>Go,</hi> and he goeth: And to another, <hi>Come,</hi> and he cometh: And to my Servant, <hi>Do this,</hi> and he doth it.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="5" facs="tcp:180164:4"/>
+               <head>III. <hi>A Soldier muſt not do Wickedly, but Juſtly, as becomes a Man of Honour.</hi>
+               </head>
+               <p>WHen thou goeſt forth againſt thine Ene<g ref="char:EOLhyphen"/>mies,
+<note place="margin">
+                     <hi>Deut.</hi> 23.9.</note> then keep thee from every wick<g ref="char:EOLhyphen"/>ed thing.</p>
+               <p>And the Soldiers likewiſe demanded of him,
+<note place="margin">
+                     <hi>Luke</hi> 3.14.</note> ſaying. And what ſhall we do? And he ſaid un<g ref="char:EOLhyphen"/>to them, Do Violence to no Man, (or <hi>put no Man in fear</hi>) neither accuſe any falſly, and be content with your Wages (or <hi>Allowance.</hi>)</p>
+               <p>And if you will not for all this,
+<note place="margin">
+                     <hi>Lev.</hi> 26, 27.37.</note> hearken unto me, but walk contrary unto me, ye ſhall have no power to ſtand before your Enemies.</p>
+               <p>The Lord ſhall cauſe thee to be Smitten be<g ref="char:EOLhyphen"/>fore thine Enemies;
+<note place="margin">
+                     <hi>Deut.</hi> 28.25.</note> thou ſhalt come out one way againſt them, and flee ſeven ways before them.</p>
+               <p>For thou haſt treſpaſsed neither,
+<note place="margin">2 <hi>Chr.</hi> 26.18.</note> ſhall it be for thine Honour from the Lord God.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. <hi>The Chriſtian Soldier ſhould be Valiant for the Cauſe of God.</hi>
+               </head>
+               <p>ONly be thou Valiant (or <hi>a Son of Valour</hi>) for me, and fight the Lord's Battles.
+<note place="margin">1 <hi>Sam.</hi> 18.17. 2 <hi>Sam.</hi> 2.7.</note>
+               </p>
+               <p>Therefore now let your hands be Strengthen<g ref="char:EOLhyphen"/>ed, and be ye Valiant; (or <hi>be ye the Sons of Valour.</hi>)</p>
+               <p>Be of good Courage,
+<note place="margin">2 <hi>Sam.</hi> 10.12.</note> let us play the Men for our People, and for the Cities of our God: And the Lord do that which ſeemeth him good.</p>
+               <p>And <hi>Iſrael</hi> ſhall do Valiantly.
+<note place="margin">
+                     <hi>Num.</hi> 24.18. <hi>Pſ.</hi> 6.12 1 <hi>Chr.</hi> 19.13. 1 <hi>Sam.</hi> 17.47. <hi>Heb</hi> 11.34.</note>
+               </p>
+               <p>Through God we ſhall do valiantly, for he it is that ſhall tread down our Enemies.</p>
+               <p>Be of good Courage, and let us behave our ſelves valiantly.</p>
+               <p>For the Battle is the Lords, and he will give you into our Hands.</p>
+               <p>By Faith they were made ſtrong, waxed va<g ref="char:EOLhyphen"/>liant in Fight, turned to flight the Armies of the Aliens.</p>
+            </div>
+            <div n="5" type="part">
+               <pb n="6" facs="tcp:180164:5"/>
+               <head>V. <hi>The Chriſtian Soldier ſhould not depend on his own Wiſdom or Strength, or preparation for War.</hi>
+               </head>
+               <p>IN all thy ways acknowledge the Lord,
+<note place="margin">
+                     <hi>Prov.</hi> 3.5.6. 1 <hi>Sam.</hi> 2.9, 10. <hi>Pſ.</hi> 44.6.</note> and lean not to thine own Underſtanding.</p>
+               <p>For by Strength ſhall no Man prevail: The Adverſaries of the Lord ſhall be broken to pieces.</p>
+               <p>I will not truſt in my Bow, neither ſhall my Sword ſave me.</p>
+               <p>There is no King ſaved by the multitude of an Hoſt:
+<note place="margin">
+                     <hi>Pſ.</hi> 33.16, 17.</note> A mighty Man is not delivered by much Strength.</p>
+               <p>An Horſe is a vain thing for Safety:
+<note place="margin">Iſ. 8.8.</note> Neither ſhall he deliver any by his great Strength.</p>
+               <p>There is no Man that hath power over the Spirit,
+<note place="margin">
+                     <hi>Eccl.</hi> 8.8.</note> to retain the Spirit; neither hath he power in the day of Death; and there is no diſcharge, (or <hi>caſting off Weapons</hi>) in that War, neither ſhall wickedneſs deliver thoſe that are given to it.</p>
+               <p>O our God!
+<note place="margin">2 <hi>Chr.</hi> 20.12.</note> wilt thou not judge them, for we have no might againſt this great Company that cometh againſt us: Neither know we what to do, but our deſires are upon thee.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI. <hi>The Chriſtian Soldier ſhould place his Truſt and Confidence on the Wiſdom and Strength of Almighty God.</hi>
+               </head>
+               <p>BE ſtrong in the Lord,
+<note place="margin">
+                     <hi>Eph.</hi> 6.10. <hi>Job.</hi> 12, 13.</note> and in the power of his Might; with him is Wiſdom and Strength, he hath Counſel and Underſtanding.</p>
+               <p>The God of <hi>Iſrael</hi> is he that giveth Strength and Power unto his People.
+<note place="margin">
+                     <hi>Pſ.</hi> 68.35. <hi>Pſ.</hi> 46.1.5.</note>
+               </p>
+               <p>God is our Refuge and Strength;
+<note place="margin">
+                     <hi>Pſ.</hi> 46.1.5.</note> a very pre<g ref="char:EOLhyphen"/>ſent help in Trouble.</p>
+               <p>God is in the midſt of her, ſhe ſhould not be moved: God ſhall help her, and that right early.</p>
+               <p>God hath power to help,
+<note place="margin">2 <hi>Chr.</hi> 25.8. <hi>Pſ.</hi> 71.16.</note> and to caſt down.</p>
+               <p>I will go in the ſtrength of the Lord God.</p>
+               <pb n="7" facs="tcp:180164:5"/>
+               <p>The Lord will give ſtrength unto his People.
+<note place="margin">
+                     <hi>Pſ.</hi> 29.11. <hi>Iſa.</hi> 17.45.</note>
+               </p>
+               <p>Then ſaid <hi>David</hi> to the <hi>Philiſtine,</hi> thou comeſt to me with a Sword and with a Spear, and with a Shield; but I come to thee in the Name of the Lord of Hoſts, the God of the Armies of <hi>Iſrael,</hi> whom thou haſt defied.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII. <hi>The Chriſtian Soldier ſhould lift up his Heart to God in Prayer before he Engage in Battle.</hi>
+               </head>
+               <p>WE made our Prayer unto our God,
+<note place="margin">
+                     <hi>Neh.</hi> 4.9.</note> and ſet a watch againſt them day and night, becauſe of them.</p>
+               <p>And <hi>Sampſon</hi> called unto the Lord, and ſaid,
+<note place="margin">
+                     <hi>Judg.</hi> 16.28.</note> O Lord God, remember me I pray thee, and ſtrengthen me, I pray thee, <hi>&amp;c.</hi>
+               </p>
+               <p>And <hi>David</hi> ſaid, O Lord, I pray thee,
+<note place="margin">2 <hi>Sam.</hi> 15.31. <hi>Jam.</hi> 1.5.</note> turn the Counſel of <hi>Achitophel</hi> into Fooliſhneſs.</p>
+               <p>If any of you lack Wiſdom, let him ask of God, that giveth all Men liberally, and upbra<g ref="char:EOLhyphen"/>deth not, and it ſhall be given him.</p>
+               <p>Give me Underſtanding,
+<note place="margin">
+                     <hi>Pſ.</hi> 119.34.</note> and I ſhall keep thy Law; yea, I ſhall obſerve it with my whole Heart.</p>
+               <p>Give ſtrength unto thy Servant,
+<note place="margin">
+                     <hi>Pſ.</hi> 86.16.</note> and ſave the Son of thine Hand-Maid.</p>
+               <p>Plead thou my Cauſe (O Lord) with them that ſtrive with me,
+<note place="margin">
+                     <hi>Pſ.</hi> 35.1, 2.</note> fight againſt them that fight a<g ref="char:EOLhyphen"/>gainſt me.</p>
+               <p>Take hold of Shield and Buckler, and ſtand up for mine help.</p>
+               <p>And the Children of <hi>Iſrael</hi> ſaid unto the Lord,
+<note place="margin">
+                     <hi>Judg.</hi> 10.15.</note> We have Sinned, do thou unto us what ſeemeth good unto thee: Deliver us only we pray thee this day.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII. <hi>The Chriſtian Soldier ſhould give Credit to, and conſider well the gracious Promiſes of God.</hi>
+               </head>
+               <p>AND they roſe early in the Morning,
+<note place="margin">2 <hi>Cor.</hi> 20.20.</note> and went forth into the Wilderneſs of <hi>Te<g ref="char:EOLhyphen"/>koah.</hi> and as they went forth, <hi>Jehoſaphat</hi> ſtood and ſaid, Hear me O <hi>Judah,</hi> and ye Inhabitants
+<pb n="8" facs="tcp:180164:6"/>of <hi>Hieruſalem,</hi> believe in the Lord your God, ſo ſhall ye proſper.</p>
+               <p>For the Lord your God is he that goeth with you,
+<note place="margin">
+                     <hi>Deut.</hi> 20.4.</note> to fight for you againſt your Enemies to ſave you.</p>
+               <p>The Lord ſhall fight for you,
+<note place="margin">
+                     <hi>Exod.</hi> 14.14. <hi>Deut.</hi> 20.3. 2 <hi>King.</hi> 17.36. <hi>Iſa.</hi> 54.17. <hi>Dan.</hi> 3.17.</note> let not your hearts faint.</p>
+               <p>But the Lord your God ye ſhall fear, and he ſhall deliver you out of the hands of all your Ene<g ref="char:EOLhyphen"/>mies.</p>
+               <p>No Weapon formed againſt thee ſhall proſper.</p>
+               <p>Our God whom we ſerve is able to deliver us from the burning fiery Furnace, and he will de<g ref="char:EOLhyphen"/>liver us out of thine Hand, O King.</p>
+               <p>Moroever I will ſubdue all thine Enemies.
+<note place="margin">1 <hi>Chr.</hi> 17.10. <hi>Iſa.</hi> 41.10.</note>
+               </p>
+               <p>Thou ſhalt ſeek them, and ſhalt not find them, even them that contended with thee: They that war againſt thee ſhall be as nothing, and as a thing of nought.</p>
+               <p>In War he ſhall redeem thee from the power of the Sword.
+<note place="margin">
+                     <hi>Job</hi> 5.20.</note>
+               </p>
+               <p>I will deliver thee in that day,
+<note place="margin">
+                     <hi>Jer.</hi> 39.17, 18.</note> ſaith the Lord, and thou ſhalt not be given into the hand of the Men, of whom thou art affraid. For I will ſure<g ref="char:EOLhyphen"/>ly deliver thee, and thou ſhalt not fall by the Sword; but thy Life ſhall be for a Prey unto thee, becauſe thou haſt put thy Truſt in me, ſaith the Lord.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX. <hi>A Chriſtian Soldier ſhould not be affraid of his Enemy, when they exceed in Number.</hi>
+               </head>
+               <p>WHen thou goeſt out to battle againſt thine Enemies,
+<note place="margin">
+                     <hi>Deut.</hi> 20.1.</note> and ſeeſt Horſes, and Chariots, and a People more than thou, be not affraid of them, for the Lord thy God is with thee.</p>
+               <p>Ye ſhall not fear them:
+<note place="margin">2 <hi>Chr.</hi> 32.7, 8. <hi>with Jer.</hi> 17.5.</note> for the Lord your God he ſhall fight for you.</p>
+               <p>Be ſtrong and couragious, be not affraid nor diſmay'd, for the King of <hi>Aſſyria,</hi> for all the Multitude that is with him, for there be more with us than with him.</p>
+               <pb n="9" facs="tcp:180164:6"/>
+               <p>With him is an Arm of fleſh, but with us is the Lord our God, to help us, and to fight our battels.</p>
+               <p>Fear not,
+<note place="margin">
+                     <hi>Iſa.</hi> 7.4.</note> neither be faint-hearted (or <hi>let not thine Heart be tender</hi>) for the two Tails of theſe ſmoking Fire-brands.</p>
+               <p>And fear not them which kill the Body.
+<note place="margin">
+                     <hi>Mat.</hi> 10.28</note>
+               </p>
+            </div>
+            <div n="10" type="part">
+               <head>X. <hi>The Chriſtian Soldier ſhould love his Enemies; yet hate and deſtroy them as Enemies to God and his Country.</hi>
+               </head>
+               <p>I Say unto you, love your Enemies,
+<note place="margin">
+                     <hi>Luk.</hi> 6.27.</note> do good to them which hate you.</p>
+               <p>Is thine Enemy hungry, give him bread to eat,
+<note place="margin">
+                     <hi>Pro.</hi> 25.21. <hi>Rom.</hi> 12.20 <hi>Pſal.</hi> 139.21, 22.</note> and if he be thirſty give him water to drink.</p>
+               <p>Do not I hate them, O Lord, that hate thee? and am not I grieved with thoſe that riſe up againſt thee?</p>
+               <p>I hate them with perfect hatred,
+<note place="margin">
+                     <hi>Rom.</hi> 1.30.</note> I account them mine Enemies, <hi>Who are</hi> haters of God.</p>
+               <p>They perſecute me wrongfully; help thou me!
+<note place="margin">
+                     <hi>Pſal.</hi> 119.86. 2 <hi>Chr.</hi> 20.37. <hi>v.</hi> 19.2.</note>
+               </p>
+               <p>Becauſe thou haſt joined thy ſelf with <hi>Ahaziah,</hi> the Lord hath broken thy works: and the Ships were broken that they were not able to go to <hi>Tarſhiſh.</hi>
+               </p>
+            </div>
+            <div n="11" type="part">
+               <head>XI. <hi>In the very instant of Battle, a Chriſtian Soldier, ſhould in his heart cry unto the Lord for help.</hi>
+               </head>
+               <p>BEhold God himſelf is with us for our Captain;
+<note place="margin">2 <hi>Chr.</hi> 13.12, 14.</note> And when <hi>Judah</hi> looked back, behold the bat<g ref="char:EOLhyphen"/>tle was before and behind: and they cried unto the Lord.</p>
+               <p>And <hi>Aza</hi> cried unto the Lord his God and ſaid,
+<note place="margin">2 <hi>Chr.</hi> 14.11.</note> Lord, it is nothing with thee to help, whether with many, or with them that have no power; help us O Lord our God for we reſt on thee, and in thy Name we go againſt this Multitude: O Lord thou art our God, let not mortal Man prevail againſt thee.</p>
+               <p>And it came to paſs when the Captains of the Chariots ſaw <hi>Jehoſaphat,</hi>
+                  <note place="margin">2 <hi>Chr.</hi> 18.31.</note> that they ſaid it is the
+<pb n="10" facs="tcp:180164:7"/>King of <hi>Iſrael:</hi> therefore they compaſſed about him to fight: but <hi>Jehoſaphat</hi> cried out, and the Lord helped him, and God moved them to depart from him.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII. <hi>A Chriſtian Soldier ſhould conſider, that ſometimes Gods People, as well as Gods Enemies, may be worſted in Battle.</hi>
+               </head>
+               <p>THE Sword devoureth one,
+<note place="margin">2 <hi>Sam.</hi> 11.25.</note> as well as an<g ref="char:EOLhyphen"/>other.</p>
+               <p>All things come alike to all; there is one Event to the righteous,
+<note place="margin">
+                     <hi>Eccleſ.</hi> 9.2.</note> and to the wicked, to the good, and to the clean, and to the unclean; to him that ſacrificeth, and to him that ſacrificeth not: as is the good, ſo is the ſinner: and he that ſweareth, as he that feareth an oath.</p>
+               <p>So there went up thither of the People about three thouſand Men,
+<note place="margin">
+                     <hi>Joſ.</hi> 7.4.</note> and they fled before the Men of <hi>Ai.</hi>
+               </p>
+               <p>And the hand of <hi>Midian</hi> prevailed againſt <hi>Iſrael.</hi>
+                  <note place="margin">
+                     <hi>Judg.</hi> 6.3. 1 <hi>Sam.</hi> 4.10.</note>
+               </p>
+               <p>And the <hi>Philiſtins</hi> fought, and <hi>Iſrael</hi> was ſmit<g ref="char:EOLhyphen"/>ten, and they fled every Man into his Tent; and there was a very great Slaughter, for there fell of <hi>Iſrael</hi> thirty thouſand foot men.</p>
+               <p>And it came to paſs,
+<note place="margin">
+                     <hi>Exod.</hi> 17.11.</note> when <hi>Moſes</hi> held up his hand that <hi>Iſrael</hi> prevailed: and when he let down his hand <hi>Amaleck</hi> prevailed.</p>
+               <p>My Children are deſolate,
+<note place="margin">
+                     <hi>Lam.</hi> 1.16.</note> becauſe the Enemy prevailed.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII. <hi>The Chriſtian Soldier ſhould conſider, that though Gods People ſometimes be worſted, yet 'tis by the Lords diſpoſal.</hi>
+               </head>
+               <p>WHO gave <hi>Jacob</hi> to the ſpoil,
+<note place="margin">
+                     <hi>Iſa.</hi> 42.24.</note> and <hi>Iſrael</hi> to the Robbers? Did not the Lord, he againſt whom we have ſinned?</p>
+               <p>Shall there be evil in a City,
+<note place="margin">
+                     <hi>Amos</hi> 3.6.</note> and the Lord hath not done it?</p>
+               <p>And the Lord ſold them into the hand of <hi>Jabin</hi> King of <hi>Canaan.</hi>
+                  <note place="margin">
+                     <hi>Judg.</hi> 4.2.</note>
+               </p>
+               <p>The Lord hath delivered me into their hands,
+<note place="margin">
+                     <hi>Lam.</hi> 1.14.</note> from whom I am not able to riſe up.</p>
+               <p>The Lord hath caſt off his Altars,
+<note place="margin">
+                     <hi>Lam.</hi> 2.7.</note> he hath abhor<g ref="char:EOLhyphen"/>red
+<pb n="11" facs="tcp:180164:7"/>his Sanctuary: He hath given up into the hand of the Enemy the Walls of her Palaces.</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIV. <hi>The Soldier ſhould conſider, 'tis for their Sins, that God ſuffers his People, to fall into the hands of their Enemies.</hi>
+               </head>
+               <p>EVen all Nations ſhall ſay,
+<note place="margin">
+                     <hi>Deut.</hi> 29.24, 25.</note> wherefore hath the Lord done this unto this Land? What mean<g ref="char:EOLhyphen"/>eth the Heat of this great Anger.</p>
+               <p>Then Men ſhall ſay, becauſe they have forſaken the Covenant of the Lord God of their Fathers, which he made with them when he brought them up out of <hi>Egypt.</hi>
+               </p>
+               <p>And the Lord ſaid unto <hi>Joſhua,</hi> get thee up,
+<note place="margin">
+                     <hi>Joſ.</hi> 7.10, 11.</note> Wherefore lieſt thou thus upon thy Face?</p>
+               <p>
+                  <hi>Iſrael</hi> hath ſinned, and they alſo tranſgreſſed my Covenant, which I commanded them: for they have even taken of the accurſed thing.</p>
+               <p>And the Captain of the Guard took <hi>Jeremiah,</hi>
+                  <note place="margin">
+                     <hi>Jer.</hi> 40.2, 3.</note> and ſaid unto him, The Lord thy God hath pro<g ref="char:EOLhyphen"/>nounced this Evil upon this Place.</p>
+               <p>Now the Lord hath brought it, and done ac<g ref="char:EOLhyphen"/>cording as he hath ſaid: becauſe ye have ſinned againſt the Lord, and have not obeyed his Voice, therefore this thing is come upon you.</p>
+               <p>My People hath been loſt Sheep:
+<note place="margin">
+                     <hi>Jer.</hi> 50.6, 7.</note> their Shep<g ref="char:EOLhyphen"/>herds have cauſed them to go aſtray, they have turned them away on the Mountains, they have gone from Mountain to Hill, they have gotten their reſting place <hi>(or place to lie down in.)</hi>
+               </p>
+               <p>All that found them have devoured them, and their Adverſaries ſaid, we offend not becauſe they have ſinned againſt the Lord, the Habitation of of Juſtice, even the Lord, the hope of their Fathers.</p>
+               <p>Wherefore doth a living Man complain <hi>(or murmur)</hi> a Man for the puniſhment of his Sins?
+<note place="margin">
+                     <hi>Lam.</hi> 3.39.</note>
+               </p>
+            </div>
+            <div n="15" type="part">
+               <head>XV. <hi>Soldiers</hi> (and all of us) <hi>upon ſuch Occur<g ref="char:EOLhyphen"/>rences, ſhould ſearch out their Sins, and par<g ref="char:EOLhyphen"/>ticularly whether they have not put too little truſt in the Arm of the Lord, and too much in the Arm of Fleſh.</hi>
+               </head>
+               <p>LET us ſearch and try our ways,
+<note place="margin">
+                     <hi>Lam.</hi> 3.4.</note> and turn again to the Lord.</p>
+               <pb n="12" facs="tcp:180164:8"/>
+               <p>Up,
+<note place="margin">
+                     <hi>Joſ.</hi> 7.13.</note> ſanctifie the People, and ſay, ſanctifie your ſelves againſt to morrow: for thus ſaith the Lord God of <hi>Iſrael,</hi> there is an accurſed thing in the midſt of thee O <hi>Iſrael:</hi> Thou canſt not not ſtand before thine Enemies, until ye have taken away the accurſed thing from among you.</p>
+               <p>For my People have committed two Evils,
+<note place="margin">
+                     <hi>Jer.</hi> 2.13.</note> they they have forſaken me the Fountain of Living Wa<g ref="char:EOLhyphen"/>ters, and hew'd them out Ciſterns, broken Ci<g ref="char:EOLhyphen"/>ſterns that can hold no Water.</p>
+               <p>Yea,
+<note place="margin" type="runSum">37.</note> thou ſhalt go forth from him, and thine hands upon thine head: for the Lord hath rejected thy Conſidence, and thou ſhalt not proſper in them.</p>
+               <p>Thus ſaith the Lord,
+<note place="margin">
+                     <hi>Jer.</hi> 17.5.</note> curſeth be the Man that truſteth in Man, and maketh fleſh his Arm, and whoſe heart departeth from the Lord.</p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI. <hi>Soldiers (and all of us) ſhould conſider, that becauſe of this Sin, and to prevent it, God hath uſually given Victory to a few.</hi>
+               </head>
+               <p>AND the Lord ſaid unto <hi>Gideon,</hi>
+                  <note place="margin">
+                     <hi>Judg.</hi> 7.2</note> the People that are with thee are too many for me to give the <hi>Midianites</hi> into thine Hands, leſt <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> vaunt themſelves againſt me, ſaying, Mine own hand hath ſaved me.</p>
+               <p>And the Lord ſaid unto <hi>Gideon,</hi>
+                  <note place="margin" type="runSum">7.</note> By the three hundred Men that lapped, <hi>I</hi> will ſave you, and deliver the <hi>Midianites</hi> into thine hand:</p>
+               <p>And the Children of <hi>Benjamin</hi> were Numbred at that time out of the City,
+<note place="margin">
+                     <hi>Judg.</hi> 20.15.</note> ſix and twenty thouſand Men that drew the Sword, beſides the inhabitants of <hi>Gibeah,</hi> which were numbred ſe<g ref="char:EOLhyphen"/>ven hundred choſen Men.</p>
+               <p>And the Men of <hi>Iſrael</hi> beſides <hi>Benjamin,</hi>
+                  <note place="margin" type="runSum">17.</note> were Numbred four hundred thouſand Men, that drew Sword; all theſe were Men of War.</p>
+               <p>And the Children of <hi>Benjamin</hi> came forth out of <hi>Gibeah,</hi>
+                  <note place="margin">
+                     <hi>Judg.</hi> 20.21.</note> and deſtroyed down to the Ground of the <hi>Iſraelites</hi> that day, twenty and two thou<g ref="char:EOLhyphen"/>ſand Men.</p>
+               <pb n="13" facs="tcp:180164:8"/>
+               <p>And <hi>Benjamin</hi> went forth againſt them out of <hi>Gibeah</hi> the ſecond day,
+<note place="margin" type="runSum">25.</note> and deſtroyed down to the Ground of the Children of <hi>Iſrael</hi> again, eigh<g ref="char:EOLhyphen"/>teen Thouſand Men; all theſe drew the Sword.</p>
+               <p>And the Children of <hi>Iſrael</hi> went up againſt the Children of <hi>Benjamin</hi> the third day.
+<note place="margin" type="runSum">30.</note> 
+               </p>
+               <p>Thus they encloſed the <hi>Benjamites</hi> round about,
+<note place="margin" type="runSum">43.</note> and Chaſed them and trod them down with eaſe, overaginſt <hi>Gibeah</hi> towards the Sun riſing.</p>
+               <p>And there fell of <hi>Benjamin</hi> eighteen Thou<g ref="char:EOLhyphen"/>ſand Men; all theſe were Men of Valour.
+<note place="margin" type="runSum">44.</note> 
+               </p>
+               <p>And they gleaned of them in the High-ways five Thouſand Men,
+<note place="margin" type="runSum">45.</note> and perſued hard after them unto <hi>Gidom,</hi> and ſlew two Thouſand Men of them:
+<note place="margin" type="runSum">46.</note> So that all which fell that day of <hi>Benja<g ref="char:EOLhyphen"/>min,</hi> were twenty and five Thouſand Men that drew the Sword. All theſe were Men of Valour.</p>
+               <p>And <hi>Abijah</hi> ſet the Battle in Array,
+<note place="margin">2 <hi>Chr.</hi> 13.3.</note> with an Army of Valiant Men of War, even four hun<g ref="char:EOLhyphen"/>dred thouſand choſen Men. <hi>Jeroboam</hi> alſo ſet the Battle in Array againſt him with eight hundred thouſand choſen Men, being mighty Men of Va<g ref="char:EOLhyphen"/>lour.</p>
+               <p>And <hi>Abiah</hi> ſtood upon Mount <hi>Zemaraim,</hi>
+                  <note place="margin" type="runSum">4.</note> which is in Mount <hi>Ephraim,</hi> and ſaid, hear me thou <hi>Jeroboam</hi> and all <hi>Iſrael.</hi>
+               </p>
+               <p>And now ye think to withſtand the Kingdom of the Lord in the hand of the Sons of <hi>David,</hi>
+                  <note place="margin" type="runSum">8.</note> and ye be a great Multitude; and there be with you Golden Calves, which <hi>Jeroboam</hi> made you for Gods.</p>
+               <p>But as for us, the Lord is our God,
+<note place="margin" type="runSum">10.</note> and we have not forſaken him: And behold, God himſelf is with us for our Captain: O Children of <hi>Iſrael,</hi>
+                  <note place="margin" type="runSum">12.</note> fight ye not againſt the Lord God of your Fathers, for you ſhall not proſper.</p>
+               <p>But <hi>Jeroboam</hi> cauſed an Ambuſhment to come about behind them:
+<note place="margin" type="runSum">13.</note> 
+               </p>
+               <p>And when <hi>Judah</hi> looked back behold,
+<note place="margin" type="runSum">14.</note> the Bat<g ref="char:EOLhyphen"/>tle was before and behind: And they cried un<g ref="char:EOLhyphen"/>to the Lord.</p>
+               <pb n="14" facs="tcp:180164:9"/>
+               <p>Then the Men of <hi>Judah</hi> gave a Shout;
+<note place="margin" type="runSum">15.</note> and as the Men of <hi>Judah</hi> ſhouted, it came to paſs that God ſmote <hi>Jeroboham</hi> and all <hi>Iſrael</hi> before <hi>Abi<g ref="char:EOLhyphen"/>jah</hi> and <hi>Judah.</hi>
+               </p>
+               <p>And <hi>Abijah</hi> and his People ſlew them with a great Slaughter:
+<note place="margin" type="runSum">17.</note> So there fell down of <hi>Iſrael</hi> five hundred thouſand choſen Men.</p>
+               <p>Thus the Children of <hi>Iſrael</hi> were brought un<g ref="char:EOLhyphen"/>der at that time,
+<note place="margin" type="runSum">18.</note> and the Children of <hi>Judah</hi> pre<g ref="char:EOLhyphen"/>vailed becauſe they relied upon the Lord God of their Fathers.</p>
+               <p>And <hi>Aſa</hi> had an <hi>Army</hi> of Men that bore Tar<g ref="char:EOLhyphen"/>gets and Spears out of <hi>Judah,</hi>
+                  <note place="margin">2 <hi>Chr.</hi> 14.8.</note> three hundred Thouſand; and out of <hi>Benjamin</hi> that bear Shields and drew Bows, two hundred and four ſcore Thouſand: All theſe were Men of Valour.</p>
+               <p>And there came out againſt <hi>Zerah,</hi>
+                  <note place="margin" type="runSum">9.</note> the <hi>Ethio<g ref="char:EOLhyphen"/>pians</hi> with an Hoſt of a thouſand and three hun<g ref="char:EOLhyphen"/>dred Chariots, and came unto <hi>Mereſhah.</hi>
+               </p>
+               <p>Then <hi>Aſa</hi> ſent out againſt him,
+<note place="margin" type="runSum">10.</note> and they ſet the Battle in Array in the Vally of <hi>Zephathah,</hi> at <hi>Mareſhah.</hi>
+               </p>
+               <p>And <hi>Aſa</hi> cried unto the Lord his God,
+<note place="margin" type="runSum">11.</note> and ſaid, Lord, it is nothing with thee to help, whether with many, or with them that have no Power Help us O Lord our God, for we reſt on thee, and in thy Name we go againſt this Multitude. O Lord, thou art our God, let not Man <hi>(or Mor<g ref="char:EOLhyphen"/>tal Man)</hi> prevail againſt thee.</p>
+               <p>So the Lord ſmote the <hi>Ethiopians</hi> before <hi>Aſa,</hi>
+                  <note place="margin" type="runSum">12.</note> and before <hi>Judah,</hi> and the <hi>Ethiopians</hi> fled.</p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII. <hi>The Chriſtian Soldier ſhould in the very nick of time, when he ſees no help in Man, ſtay himſelf on God, crying to him for Aid.</hi>
+               </head>
+               <p>
+                  <hi>JEhovah Jireh.</hi>
+                  <note place="margin">
+                     <hi>Gen.</hi> 22.14. <hi>Exod.</hi> 14.13.</note> In the Mount of the Lord it ſhall be ſeen. (or <hi>the Lord will ſee, or provide</hi>)</p>
+               <p>And <hi>Moſes</hi> ſaid unto the People, fear ye not, ſtand ſtill, and ſee the Salvation of the Lord, which he will ſhew to you this day: For the <hi>Aegyptians</hi> whom ye have ſeen this day, ye ſhall ſee them no more for ever.</p>
+               <pb n="15" facs="tcp:180164:9"/>
+               <p>The Lord ſhall fight for you,
+<note place="margin">
+                     <hi>v.</hi> 14.</note> and ye ſhall hold your peace.</p>
+               <p>O our God, wilt thou not judge them?
+<note place="margin">2 <hi>Chr.</hi> 20.11.</note> For we have no might againſt this great Company that cometh againſt us: neither know we what to do, but our eyes are upon thee.</p>
+               <p>Ye ſhall not need to fight in this battle:
+<note place="margin">
+                     <hi>v.</hi> 17.</note> Set your ſelves, ſtand ye ſtill, and ſee the Salvation of the Lord, with you, O <hi>Judah</hi> and <hi>Jeruſalem,</hi> fear not, nor be diſmayed; to morrow go out againſt them, for the Lord will be with you.</p>
+               <p>To me belongeth Vengeance and Recompenſe;
+<note place="margin">
+                     <hi>Deut.</hi> 32.35.</note> their foot ſhall ſlide in due time: for the day of their Cala<g ref="char:EOLhyphen"/>mity is at hand, and the things that ſhall come upon them make haſte.</p>
+               <p>For the Lord ſhall judge his People, and repent him<g ref="char:EOLhyphen"/>ſelf for his Servants;
+<note place="margin">
+                     <hi>v.</hi> 36.</note> when he ſeeth that their power is gone, and there is none ſhut up, or left.</p>
+               <p>For my ſtrength is made perfect in weakneſs,
+<note place="margin">2 <hi>Cor.</hi> 12.9. <hi>Zach.</hi> 4.6.</note> not by Might, <hi>(or Army)</hi> nor by Power, but by my Spirit, ſaith the Lord of Hoſts.</p>
+               <p>For the Oppreſſion of the Poor,
+<note place="margin">
+                     <hi>Pſal.</hi> 12.5.</note> for the Sighing of the Needy, now will I ariſe (ſaith the Lord) I will ſet him in ſafety from him that puffeth at him, <hi>(or would enſlave him.)</hi>
+               </p>
+               <p>Now will I riſe, ſaith the Lord:
+<note place="margin">
+                     <hi>Iſa.</hi> 33.10.</note> now will I be ex<g ref="char:EOLhyphen"/>alted, now will I lift up my ſelf.</p>
+            </div>
+            <div n="18" type="part">
+               <head>XVIII. <hi>The Chriſtian Soldier ſhould conſider, if our Forces be weakned, and our Enemies ſtrengthned, there is then a Promiſe of Divine Help to plead, which we had not, when ſtronger; whereupon Prayer ſhould be more Earneſt.</hi>
+               </head>
+               <p>O Lord be gracious unto us,
+<note place="margin">
+                     <hi>Iſa.</hi> 33.2.</note> we have waited for thee: be thou their help every Morning, our Sal<g ref="char:EOLhyphen"/>vation alſo in the time of trouble.</p>
+               <p>Hear, Lord, the voice of <hi>Judah,</hi>
+                  <note place="margin">
+                     <hi>Deut.</hi> 33.7.</note> and bring him un<g ref="char:EOLhyphen"/>to his People: let his hands be ſufficient for him, and be thou an help to him from his Enemies.</p>
+               <p>I looked on my right hand, and beheld,
+<note place="margin">
+                     <hi>Pſal.</hi> 143.4.</note> but there was no man that would know me: refuge failed me, no man cared for my Soul.</p>
+               <p>I cried unto thee, O Lord, I ſaid,
+<note place="margin">
+                     <hi>v.</hi> 5.</note> thou art my re<g ref="char:EOLhyphen"/>fuge, and my Portion in the Land of the living.</p>
+               <p>Be not far from me, for trouble is near,
+<note place="margin">
+                     <hi>Pſal.</hi> 22.11.</note> for there is none to help <hi>(or not an helper.)</hi>
+               </p>
+               <p>O remember not againſt us former Iniquities,
+<note place="margin">
+                     <hi>Pſal.</hi> 79.8.</note> 
+                  <hi>(or the Iniquities of them that were before us,)</hi> let thy tender Mercies ſpeedily prevent us, for we are brought very low.</p>
+               <p>In War he ſhall redeem thee from the power of the Sword.
+<note place="margin">
+                     <hi>Job</hi> 5.20.</note>
+               </p>
+               <p>Take hold of ſhield, and Buckler,
+<note place="margin">
+                     <hi>Pſal.</hi> 35.2.</note> and ſtand up for mine help.</p>
+               <pb n="16" facs="tcp:180164:10"/>
+               <p>Help us,
+<note place="margin">
+                     <hi>Pſal.</hi> 79.9.</note> O God of our Salvation, for the glory of thy name: and deliver us, and purge away our ſins for thy mercy ſake.</p>
+               <p>And the Lord preſerved <hi>David</hi> whitherſoever he went.
+<note place="margin">2 <hi>Sam.</hi> 8.6.</note>
+               </p>
+            </div>
+            <div n="19" type="part">
+               <head>XIX. <hi>The Chriſtian Soldier</hi> (and all of us) <hi>ſhould know, that when Victory is given of God, all the Glory is to be given to him, as his Servants have done.</hi>
+               </head>
+               <p>THY right hand,
+<note place="margin">
+                     <hi>Exod.</hi> 15.6,</note> O Lord, is become glorious in power; thy right hand, O Lord, hath daſhed in pieces the Enemy.</p>
+               <p>And in the greatneſs of thine Excellency,
+<note place="margin">
+                     <hi>v.</hi> 7.</note> thou haſt over-thrown them that roſe up againſt thee.</p>
+               <p>This is the Lords doing,
+<note place="margin">
+                     <hi>Pſal.</hi> 118.23. <hi>Joſ.</hi> 10.14. <hi>Mic.</hi> 7.7.</note> it is marvellous in our eyes.</p>
+               <p>For the Lord fought for <hi>Iſrael.</hi>
+               </p>
+               <p>Therefore I will look unto the Lord: I will wait for the God of my Salvation: my God will hear me.</p>
+               <p>Who delivered us from ſo great a death;
+<note place="margin">2 <hi>Cor.</hi> 1.10.</note> and doth deliver.</p>
+               <p>Now therefore our God we thank thee,
+<note place="margin">1 <hi>Chr.</hi> 29.13.</note> and praiſe thy glorious name.</p>
+               <p>And after all that is come upon us for our evil deeds,
+<note place="margin">
+                     <hi>Ezra</hi> 9.13,</note> and for our great treſpaſs; ſeeing that our God hath puniſhed us leſs than our iniquities deſerve; and haſt given us ſuch a deliverance as this.</p>
+               <p>Shall we again break the Commandments?
+<note place="margin">
+                     <hi>v.</hi> 14.</note>
+               </p>
+               <p>I will walk before the Lord in the Land of the living.
+<note place="margin">
+                     <hi>Pſ.</hi> 116.9. <hi>Pſal.</hi> 119.106.</note>
+               </p>
+               <p>I have ſworn, and I will perform it, that I will keep thy righteous Judgments.</p>
+            </div>
+            <div n="20" type="part">
+               <head>XX. <hi>The Chriſtian Soldier ſhould ſo manage all his temporal Warfare</hi> (for his King and Country) <hi>that he may ſucceed well in his Spiritual Warfare, and enjoy Peace with God Eternally.</hi>
+               </head>
+               <p>LET us caſt off the Works of Darkneſs,
+<note place="margin">
+                     <hi>Rom.</hi> 13.12.</note> and put on the Armour of Light.</p>
+               <p>Wherefore take unto you the whole Armor of God,
+<note place="margin">
+                     <hi>Eph.</hi> 6.13,</note> that ye may be able to withſtand in the evil day, and having done all <hi>(or overcome all)</hi> to ſtand.</p>
+               <p>Stand therefore having your Loins girt about with truth,
+<note place="margin">
+                     <hi>v.</hi> 14.</note> and having on the breaſt-plate of Righteouſneſs.</p>
+               <p>And your Feet ſhod with the Preparation of the Goſpel of peace.
+<note place="margin">
+                     <hi>v.</hi> 15.</note>
+               </p>
+               <p>For the Weapons of our Warfare are not Carnal,
+<note place="margin">2 <hi>Cor.</hi> 10.4.</note> but mighty, through God, to the pulling down of ſtrong Holds.</p>
+               <p>I have fought a good Fight,
+<note place="margin">2 <hi>Tim.</hi> 4.7,</note> I have finiſhed my Courſe, I have kept the Faith,</p>
+               <p>Hence forth there is laid up for me a Crown of Righteouſneſs,
+<note place="margin">
+                     <hi>v.</hi> 8.</note> which the Lord the righteous Judge ſhall give me at that day: And not to me only, but unto all them alſo that love his appearance.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180164:10"/>
+            <pb facs="tcp:180164:11"/>
+            <pb facs="tcp:180164:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
